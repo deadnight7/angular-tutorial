@@ -10,6 +10,8 @@ import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
     AppComponent,
     HeroesComponent
   ],
+
+  //Import all global required modules here
   imports: [
     BrowserModule,
     FormsModule
